@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		244ACB4A22C2F3B4008BA001 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 244ACB4922C2F3B4008BA001 /* SettingsViewController.m */; };
 		24A63A8022C2C2C400058059 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 24A63A7F22C2C2C400058059 /* AppDelegate.m */; };
 		24A63A8322C2C2C400058059 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24A63A8222C2C2C400058059 /* ViewController.m */; };
 		24A63A8622C2C2C400058059 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24A63A8422C2C2C400058059 /* Main.storyboard */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		244ACB4822C2F3B4008BA001 /* SettingsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
+		244ACB4922C2F3B4008BA001 /* SettingsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
 		24A63A7B22C2C2C400058059 /* Tipster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tipster.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		24A63A7E22C2C2C400058059 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		24A63A7F22C2C2C400058059 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -105,6 +108,8 @@
 				24A63A7F22C2C2C400058059 /* AppDelegate.m */,
 				24A63A8122C2C2C400058059 /* ViewController.h */,
 				24A63A8222C2C2C400058059 /* ViewController.m */,
+				244ACB4822C2F3B4008BA001 /* SettingsViewController.h */,
+				244ACB4922C2F3B4008BA001 /* SettingsViewController.m */,
 				24A63A8422C2C2C400058059 /* Main.storyboard */,
 				24A63A8722C2C2C400058059 /* Assets.xcassets */,
 				24A63A8922C2C2C400058059 /* LaunchScreen.storyboard */,
@@ -265,6 +270,7 @@
 				24A63A8322C2C2C400058059 /* ViewController.m in Sources */,
 				24A63A8E22C2C2C400058059 /* main.m in Sources */,
 				24A63A8022C2C2C400058059 /* AppDelegate.m in Sources */,
+				244ACB4A22C2F3B4008BA001 /* SettingsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
